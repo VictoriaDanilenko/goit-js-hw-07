@@ -1,2 +1,2 @@
 # goit-js-hw-07
-JS_Homework
+JS_Homework-07
